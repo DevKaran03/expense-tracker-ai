@@ -8,7 +8,7 @@ Time to build: **22 minutes** (with AI assistance)
 
 ## 🎥 Demo
 
-![Demo Placeholder](https://loadly.io/ovpSu0Sn)
+![Demo Placeholder](https://drive.google.com/file/d/1hcbOpZhaljiMeatYXQSt7sEoHubRpJXC/view?usp=drive_link)
 _Watch how natural language input is converted into structured expense data._
 
 ## 🛠️ Tech Stack
@@ -108,7 +108,6 @@ If the input is invalid or you cannot extract an amount, respond:
   "amount": null
 }`;
 ```
-
 
 **Why this approach:**
 I chose a strictly structured JSON response format to ensure the backend could reliably parse data without hallucination, and mapped natural language to a fixed set of categories to enable consistent, emoji-driven UI icons.
