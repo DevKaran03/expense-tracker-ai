@@ -8,7 +8,7 @@ Time to build: **22 minutes** (with AI assistance)
 
 ## 🎥 Demo
 
-![Demo Placeholder](https://drive.google.com/file/d/1hcbOpZhaljiMeatYXQSt7sEoHubRpJXC/view?usp=drive_link)
+![Demo Placeholder](https://github.com/user-attachments/assets/0bc8ac14-7333-476c-abd0-c48f4f35a0f0)
 _Watch how natural language input is converted into structured expense data._
 
 ## 🛠️ Tech Stack
